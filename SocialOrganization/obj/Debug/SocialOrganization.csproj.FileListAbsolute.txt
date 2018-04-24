@@ -1,0 +1,13 @@
+H:\My things\Cursuri IT\Curs C# Romana\Exercitii c#\SocialOrganization\SocialOrganization\bin\Debug\SocialOrganization.exe.config
+H:\My things\Cursuri IT\Curs C# Romana\Exercitii c#\SocialOrganization\SocialOrganization\bin\Debug\SocialOrganization.exe
+H:\My things\Cursuri IT\Curs C# Romana\Exercitii c#\SocialOrganization\SocialOrganization\bin\Debug\SocialOrganization.pdb
+H:\My things\Cursuri IT\Curs C# Romana\Exercitii c#\SocialOrganization\SocialOrganization\obj\Debug\SocialOrganization.csprojResolveAssemblyReference.cache
+H:\My things\Cursuri IT\Curs C# Romana\Exercitii c#\SocialOrganization\SocialOrganization\obj\Debug\SocialOrganization.Form1.resources
+H:\My things\Cursuri IT\Curs C# Romana\Exercitii c#\SocialOrganization\SocialOrganization\obj\Debug\SocialOrganization.Properties.Resources.resources
+H:\My things\Cursuri IT\Curs C# Romana\Exercitii c#\SocialOrganization\SocialOrganization\obj\Debug\SocialOrganization.csproj.GenerateResource.cache
+H:\My things\Cursuri IT\Curs C# Romana\Exercitii c#\SocialOrganization\SocialOrganization\obj\Debug\SocialOrganization.csproj.CoreCompileInputs.cache
+H:\My things\Cursuri IT\Curs C# Romana\Exercitii c#\SocialOrganization\SocialOrganization\obj\Debug\SocialOrganization.exe
+H:\My things\Cursuri IT\Curs C# Romana\Exercitii c#\SocialOrganization\SocialOrganization\obj\Debug\SocialOrganization.pdb
+H:\My things\Cursuri IT\Curs C# Romana\Exercitii c#\SocialOrganization\SocialOrganization\obj\Debug\SocialOrganization.Forms.FormDashboard.resources
+H:\My things\Cursuri IT\Curs C# Romana\Exercitii c#\SocialOrganization\SocialOrganization\obj\Debug\SocialOrganization.UserControls.DashboardUC.resources
+H:\My things\Cursuri IT\Curs C# Romana\Exercitii c#\SocialOrganization\SocialOrganization\obj\Debug\SocialOrganization.UserControls.DonersUC.resources
